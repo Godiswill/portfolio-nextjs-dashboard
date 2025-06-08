@@ -18,7 +18,7 @@ export default function Page() {
           <p
             className={`${lusitana.className} text-xl text-gray-800 md:text-3xl md:leading-normal`}
           >
-            <strong>Welcome to Renjun's portfolio.</strong> This is a
+            <strong>Welcome to Renjun&apos;s portfolio.</strong> This is a
             <div className="text-blue-500">Next.js</div>project, brought to you
             by Vercel.
           </p>
